@@ -1,0 +1,10 @@
+{
+    "git.alwaysSignOff": true,
+    "gitlens.remotes": [
+        {
+            "domain": "mau.dev",
+            "type": "GitLab",
+            "name": "Maunium GitLab"
+        }
+    ]
+}
