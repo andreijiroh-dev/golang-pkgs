@@ -1,5 +1,7 @@
 ## oblong module for Caddy
 
+[![Go Reference](https://pkg.go.dev/badge/test.svg)](https://pkg.go.dev/packages.andreijiroh.xyz/golang/caddy-dns-oblong)
+
 THis package contains a DNS provider module for Caddy and can be used to
 manage DNS records with `obl.ong` subdomains.
 
