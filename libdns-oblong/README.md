@@ -10,5 +10,6 @@ This package implements the [libdns interfaces](https://github.com/libdns/libdns
 ## Caveats
 
 * To generate an API token, one must [request an OAuth client](https://admin.obl.ong/developers/applications),
-get your request approved and go through the OAuth flow.
+get your request approved and go through the OAuth flow. You can also opt to generate one via
+[this website](https://libdns.obl.ong/get-token) (coming soon).
 * To use this library, your `obl.ong` subdomain must be approved for use.
